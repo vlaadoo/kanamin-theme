@@ -1,0 +1,21 @@
+{
+  "name": "kanamin-theme",
+  "displayName": "KanaMin Theme",
+  "description": "Simple Dark Theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vladoo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vladoo-color-theme.json"
+      }
+    ]
+  }
+}
