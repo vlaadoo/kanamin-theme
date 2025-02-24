@@ -2,25 +2,22 @@
   "name": "kanamin-theme",
   "displayName": "KanaMin Theme",
   "description": "Simple Dark Theme",
-  "version": "1.0.2",
+  "version": "2.0.1",
   "publisher": "vladoo",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vlaadoo/kanamin-theme"
-},
-  "icon": "assets/icon.png",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.97.0"
+  },
+  "scripts": {
+    "build": "node build.js"
   },
   "categories": [
     "Themes"
   ],
-  "keywords": [
-    "theme",
-    "dark",
-    "kanamin",
-    "clean"
-],
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vlaadoo/kanamin-theme"
+  },
   "contributes": {
     "themes": [
       {
@@ -29,5 +26,15 @@
         "path": "./themes/kanamin-color-theme.json"
       }
     ]
-  }
+  },
+  "devDependencies": {
+    "@crystal-ball/eslint-config-eloquence": "^1.0.0",
+    "js-yaml": "^3.13.1"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "kanamin",
+    "clean"
+  ]
 }
