@@ -1,12 +1,14 @@
 <div align="center">
 
 # KanaMin Theme
+
 <img src="assets/icon.png" width="200" >
 
 A minimalistic and dark VS Code theme for a better coding experience.
-</div>
+<br>
+Inspired by Sequoia theme.
 
-![preview-dark](assets/preview-dark.png)
+</div>
 
 ## Installation
 
@@ -16,4 +18,4 @@ A minimalistic and dark VS Code theme for a better coding experience.
 
 ## License
 
-[MIT License](LICENSE) 
+[MIT License](LICENSE)
