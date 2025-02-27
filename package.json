@@ -2,7 +2,7 @@
   "name": "kanamin-theme",
   "displayName": "KanaMin Theme",
   "description": "Simple Dark Theme",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "publisher": "vladoo",
   "engines": {
     "vscode": "^1.97.0"

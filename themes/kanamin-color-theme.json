@@ -492,7 +492,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#6691AE"
+        "foreground": "#71aca0"
       }
     },
     {
@@ -590,7 +590,7 @@
     {
       "scope": ["string"],
       "settings": {
-        "foreground": "#A2A2B0"
+        "foreground": "#b8b8c9"
       }
     },
     {
@@ -633,7 +633,7 @@
     {
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#ededee"
       }
     }
   ]
