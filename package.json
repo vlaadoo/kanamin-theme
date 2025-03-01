@@ -2,10 +2,10 @@
   "name": "kanamin-theme",
   "displayName": "KanaMin Theme",
   "description": "Simple Dark Theme",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "publisher": "vladoo",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.94.0"
   },
   "scripts": {
     "build": "node build.js"
